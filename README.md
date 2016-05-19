@@ -1,3 +1,3 @@
 # hello-world
-My first Repository
+My first Repository.
 Hi, I am a person that is alive. 
